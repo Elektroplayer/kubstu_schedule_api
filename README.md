@@ -119,8 +119,8 @@ POST `/schedule?inst_id=516&group=22-КБ-ИВ1&day=2&week=true`
 
 ```json
 {
-    code: 400,
-    message: "Подробности ошибки"
+    "code": 400,
+    "message": "Подробности ошибки"
 }
 ```
 
